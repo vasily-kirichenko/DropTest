@@ -5,7 +5,7 @@ struct My {
 
 impl Drop for My {
     fn drop(&mut self) {
-        println!("{:?} is dropping", self)    
+        println!("{the_field:?} is dropping", the_field = self)    
     }
 }
 
