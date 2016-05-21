@@ -1,0 +1,6 @@
+[package]
+name = "DropTest"
+version = "0.1.0"
+authors = ["Vasily Kirichenko <vaskir@gmail.com>"]
+
+[dependencies]
